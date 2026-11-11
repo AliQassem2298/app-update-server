@@ -1,8 +1,8 @@
 {
-    "latest_version": "2.0.1+6",
-    "version_code": 6,
-    "update_url": "https://drive.usercontent.google.com/download?id=150kKlCnBZWM6EehrF8c7gQReNjc6vR3u&export=download&authuser=0&confirm=t&uuid=e990b568-bb1f-4d55-bbaa-215f59c270ae&at=ANTm3cydWHeKBsjjPtEykpKHxMHJ:1767704341133",
-    "release_notes":"تحديث ضروري للعملة السورية الجديدة\nوالتسعير بحسب الأسعار والفئات الجديدة المطروحة من قبل سيرياتيل وMTN",
-    "force_update": false,
-    "file_size": "34.4 MB"
+    "latest_version": "2.0.3+8",
+    "version_code": 8,
+    "update_url": "https://drive.usercontent.google.com/download?id=1L7PAKg5qWzVUiPy53lq3Y_cdg1iopXuq&export=download&confirm=t",
+    "release_notes": "تحديث ضروري لاستمرار العمل بشكل صحيح.\n• الفئات وأسعار المبيع حسب آخر إعدادات نمبر ون.",
+    "force_update": true,
+    "file_size": "31.8 MB"
 }
